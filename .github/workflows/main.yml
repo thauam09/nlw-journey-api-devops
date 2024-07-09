@@ -15,4 +15,4 @@ jobs:
       uses: actions/checkout@v4
 
     - name: Build docker image
-      uses: docker build -t thauam09/nlw-journey-api-devops:latest .
+      run: docker build -t thauam09/nlw-journey-api-devops:latest .
