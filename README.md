@@ -3,8 +3,7 @@
 - Tecnologia: Go
 - Versão: 1.22.2
 - Porta: 8080
-
-### Postgres
+- Banco de Dados: Postgres
 
 ## Preparação Dev
 
